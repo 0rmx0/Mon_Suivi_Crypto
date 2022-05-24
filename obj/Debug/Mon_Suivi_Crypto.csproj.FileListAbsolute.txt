@@ -1,0 +1,9 @@
+C:\Users\obusillet\Documents\___Perso\Nouveau dossier\Mon_Suivi_Crypto\bin\Debug\Mon_Suivi_Crypto.exe.config
+C:\Users\obusillet\Documents\___Perso\Nouveau dossier\Mon_Suivi_Crypto\bin\Debug\Mon_Suivi_Crypto.exe
+C:\Users\obusillet\Documents\___Perso\Nouveau dossier\Mon_Suivi_Crypto\bin\Debug\Mon_Suivi_Crypto.pdb
+C:\Users\obusillet\Documents\___Perso\Nouveau dossier\Mon_Suivi_Crypto\obj\Debug\Mon_Suivi_Crypto.csprojAssemblyReference.cache
+C:\Users\obusillet\Documents\___Perso\Nouveau dossier\Mon_Suivi_Crypto\obj\Debug\Mon_Suivi_Crypto.Properties.Resources.resources
+C:\Users\obusillet\Documents\___Perso\Nouveau dossier\Mon_Suivi_Crypto\obj\Debug\Mon_Suivi_Crypto.csproj.GenerateResource.cache
+C:\Users\obusillet\Documents\___Perso\Nouveau dossier\Mon_Suivi_Crypto\obj\Debug\Mon_Suivi_Crypto.csproj.CoreCompileInputs.cache
+C:\Users\obusillet\Documents\___Perso\Nouveau dossier\Mon_Suivi_Crypto\obj\Debug\Mon_Suivi_Crypto.exe
+C:\Users\obusillet\Documents\___Perso\Nouveau dossier\Mon_Suivi_Crypto\obj\Debug\Mon_Suivi_Crypto.pdb
